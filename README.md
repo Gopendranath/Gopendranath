@@ -6,7 +6,7 @@
 I am a passionate software developer with a keen interest in open-source projects and continuous learning. I love to explore new technologies and apply them to solve real-world problems.
 
 - 🔭 I’m currently working on various open-source projects.
-- 🌱 I’m currently learning advanced concepts in AI and machine learning.
+- 🌱 I’m currently learning advanced concepts in MERN stack development.
 - 👯 I’m looking to collaborate on innovative projects that can make a difference.
 - 🤔 I’m looking for help with cloud computing and containerization.
 - 💬 Ask me about anything related to software development.
