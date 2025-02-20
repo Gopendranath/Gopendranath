@@ -15,11 +15,12 @@ I am a passionate software developer with a keen interest in open-source project
 
 ## Skills
 
-- Programming Languages: Python, JavaScript, Java, C++
-- Web Development: HTML, CSS, React, Node.js
+- Programming Languages: Python, JavaScript, Java, Golang
+- Web Development: HTML, CSS, React, Node.js, React.js, Next.js
 - Databases: MySQL, PostgreSQL, MongoDB
-- Tools: Git, Docker, Kubernetes, Jenkins
-- Cloud Platforms: AWS, Azure, Google Cloud
+- Tools: Git, Docker, Postman, Wireshark
+- Cloud Platforms: Vercel, Netlify, Azure cloud
+- Hardware: Arduino Uno, esp32, esp8266, Proteus
 
 ## GitHub Stats
 
