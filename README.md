@@ -22,10 +22,6 @@ I am a passionate software developer with a keen interest in open-source project
 - Cloud Platforms: Vercel, Netlify, Azure cloud
 - Hardware: Arduino Uno, esp32, esp8266, Proteus
 
-## GitHub Stats
-
-![Gopendranath's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gopendranath&show_icons=true&theme=radical)
-
 ## Top Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gopendranath&layout=compact&theme=radical)
