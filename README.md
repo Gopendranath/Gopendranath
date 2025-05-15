@@ -29,7 +29,7 @@ I am a passionate software developer with a keen interest in open-source project
 ## Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/gopendranath)
-- [Twitter](https://twitter.com/gopendranath)
+- [Twitter](https://x.com/AssassinsEmper1)
 - [Portfolio Website](https://t3rminal.vercel.app/)
 
 Thanks for visiting my profile, have a great day! 😊
