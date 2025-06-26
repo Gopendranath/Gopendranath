@@ -51,6 +51,7 @@ I'm a passionate software developer driven by a love for open-source and continu
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" 
      title="GitHub" alt="GitHub" width="40" height="40"
      style="filter: invert(23%) sepia(96%) saturate(1753%) hue-rotate(207deg) brightness(200%) contrast(200%);"/>
+  <img src="https://img.icons8.com/color/48/arduino.png" title="Arduino" alt="Arduino" width="40" height="40"/>
 
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>
@@ -62,7 +63,7 @@ I'm a passionate software developer driven by a love for open-source and continu
 
   <!-- Cloud -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/microsoftazure/0078D4" title="Azure" alt="Azure" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-plain-wordmark.svg" title="Azure" alt="Azure" width="40" height="40"/>
 </div>
 
 
