@@ -37,7 +37,7 @@ I'm a passionate software developer driven by a love for open-source and continu
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="Express.js" alt="Express.js" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Ejs-logo.svg" title="EJS" alt="EJS" width="40" height="40"/>
+  <img src="https://img.icons8.com/?size=100&id=puL87ypQPxxr&format=png&color=000000" title="EJS" alt="EJS" width="40" height="40"/>
   
 
   <!-- Database -->
