@@ -48,7 +48,7 @@ I'm a passionate software developer driven by a love for open-source and continu
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" 
      title="GitHub" alt="GitHub" width="40" height="40"
-     style="filter: invert(100%) sepia(96%) saturate(1753%) hue-rotate(207deg) brightness(95%) contrast(95%);"/>
+     style="filter: invert(23%) sepia(96%) saturate(1753%) hue-rotate(207deg) brightness(200%) contrast(200%);"/>
 
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>
