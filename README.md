@@ -1,12 +1,18 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
 
-# Hi there, I'm Gopendranath 👋
+<p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
+<p align="center">
+<a href="https://www.linkedin.com/in/gopendranath-sasmal-58a321205"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+</p>
+<p align="center">
+<a href="https://coff.ee/gopendranath" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+</p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=kakbar&style=flat-square&color=blue" alt=""></p>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
+<h1 align="center">hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
+
+<p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
+
+
 
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Gopendranath)
 
@@ -90,7 +96,7 @@ I'm a passionate software developer driven by a love for open-source and continu
 
 ## Let's Connect
 
-- [LinkedIn](https://www.linkedin.com/in/gopendranath)
+- [LinkedIn](https://www.linkedin.com/in/gopendranath-sasmal-58a321205/)
 - [Twitter](https://x.com/AssassinsEmper1)
 - [Portfolio Website](https://t3rminal.vercel.app/)
 
