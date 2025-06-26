@@ -15,7 +15,7 @@ I'm a passionate software developer driven by a love for open-source and continu
 
 ## Skills
 
-- Programming Languages: Python, JavaScript, Java, Golang
+- Programming Languages: Python, JavaScript, Java
 - Web Development: HTML, CSS, React, Node.js, React.js, Next.js
 - Databases: MySQL, PostgreSQL, MongoDB
 - Tools: Git, Docker, Postman, Wireshark
