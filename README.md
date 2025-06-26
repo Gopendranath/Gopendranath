@@ -24,10 +24,13 @@ I'm a passionate software developer driven by a love for open-source and continu
 
 ## Top Languages
 
-<div>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gopendranath&layout=compact&theme=radical) 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Gopendranath&theme=synthwave&hide_border=true&mode=weekly" alt="GitHub Streak" /></a>
+<div style="display: flex; gap: 1rem; flex-wrap: wrap;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gopendranath&layout=compact&theme=radical" alt="Top Languages" />
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Gopendranath&theme=vitesse&hide_border=true&mode=weekly" alt="GitHub Streak" />
+  </a>
 </div>
+
 
 
 ## Let's Connect
