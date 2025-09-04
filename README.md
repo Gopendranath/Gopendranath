@@ -18,14 +18,17 @@
 
 > A passionate software developer driven by a love for *open-source* and *continuous learning*. I'm currently deepening my expertise in the *MERN stack* while actively contributing to the community. I'm always eager to collaborate on innovative projects and expand my skills in *cloud computing* and *containerization*. When I'm not coding, you can find me trekking and exploring the beauty of nature.
 
-## Skills
+### My Core Tech Stack
 
-- Programming Languages: Python, JavaScript, Java
-- Web Development: HTML, CSS, React, Node.js, React.js, Next.js
-- Databases: MySQL, PostgreSQL, MongoDB
-- Tools: Git, Docker, Postman, Wireshark
-- Cloud Platforms: Vercel, Netlify, Azure cloud
-- Hardware: Arduino Uno, esp32, esp8266, Proteus
+| Category | Primary Focus | Proficient With |
+| :--- | :--- | :--- |
+| **Languages** | `JavaScript` `TypeScript` `Python` | `HTML` `CSS` `YAML` `Markdown` |
+| **Frontend** | `React.js` `Next.js` `Tailwind CSS` | `Redux` `Zustand` `Shadcn/UI` `MUI` |
+| **Backend** | `Node.js` `Express.js` `MongoDB` | `FastAPI` `REST APIs` `JWT` `OAuth 2.0` |
+| **AI/ML** | `LangChain` `LangGraph` `GenAI` | `RAG` `Mistral AI` `Automation` |
+| **Cloud & DevOps**| `AWS` `Docker` `Git` `Vercel` | `EC2` `S3` `Lambda` `Netlify` |
+| **Tools** | `VSCode` `Postman` `Github` | `WSL` `Wireshark` `n8n` |
+
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
   <!-- Frontend -->
