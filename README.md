@@ -16,15 +16,7 @@
 
 ## About Me
 
-I'm a passionate software developer driven by a love for open-source and continuous learning. I thrive on exploring new technologies and applying them to create impactful, real-world solutions.
-
-- 🔭 I’m currently contributing to various open-source projects.
-- 🌱 I’m deepening my expertise in MERN stack development, focusing on advanced concepts.
-- 👯 I’m eager to collaborate on innovative and impactful projects.
-- 🤔 I’m seeking opportunities to expand my knowledge in cloud computing and containerization.
-- 💬 Feel free to ask me about anything related to software development!
-- 📫 You can reach me at: boowman888@gmail.com
-- ⚡ Fun fact: When I'm not coding, I love trekking and exploring the beauty of nature.
+> A passionate software developer driven by a love for *open-source* and *continuous learning*. I'm currently deepening my expertise in the *MERN stack* while actively contributing to the community. I'm always eager to collaborate on innovative projects and expand my skills in *cloud computing* and *containerization*. When I'm not coding, you can find me trekking and exploring the beauty of nature.
 
 ## Skills
 
