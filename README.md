@@ -22,7 +22,7 @@
 <table align="center" width="100%"> <tr> <th>Category</th> <th>Primary Focus</th> <th>Proficient With</th> </tr> <tr> <td><b>Languages</b></td> <td><code>JavaScript</code> <code>TypeScript</code> <code>Python</code></td> <td><code>HTML</code> <code>CSS</code> <code>YAML</code> <code>Markdown</code></td> </tr> <tr> <td><b>Frontend</b></td> <td><code>React.js</code> <code>Next.js</code> <code>Tailwind CSS</code></td> <td><code>Redux</code> <code>Zustand</code> <code>Shadcn/UI</code> <code>MUI</code></td> </tr> <tr> <td><b>Backend</b></td> <td><code>Node.js</code> <code>Express.js</code> <code>MongoDB</code></td> <td><code>FastAPI</code> <code>REST APIs</code> <code>JWT</code> <code>OAuth 2.0</code></td> </tr> <tr> <td><b>AI / ML</b></td> <td><code>LangChain</code> <code>LangGraph</code> <code>GenAI</code></td> <td><code>RAG</code> <code>Mistral AI</code> <code>Automation</code></td> </tr> <tr> <td><b>Cloud & DevOps</b></td> <td><code>AWS</code> <code>Docker</code> <code>Git</code> <code>Vercel</code></td> <td><code>EC2</code> <code>S3</code> <code>Lambda</code> <code>Netlify</code></td> </tr> <tr> <td><b>Tools</b></td> <td><code>VSCode</code> <code>Postman</code> <code>Github</code></td> <td><code>WSL</code> <code>Wireshark</code> <code>n8n</code></td> </tr> </table>
 
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
+<div align="center">
   <!-- Frontend -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS3" width="40" height="40"/>
@@ -36,9 +36,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="Node.js" alt="Node.js" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="Express.js" alt="Express.js" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>
   <img src="https://img.icons8.com/?size=100&id=puL87ypQPxxr&format=png&color=000000" title="EJS" alt="EJS" width="40" height="40"/>
-  
 
   <!-- Database -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>
@@ -48,11 +47,8 @@
 
   <!-- DevOps & Tools -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" 
-     title="GitHub" alt="GitHub" width="40" height="40"
-     style="filter: invert(23%) sepia(96%) saturate(1753%) hue-rotate(207deg) brightness(200%) contrast(200%);"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/arduino.png" title="Arduino" alt="Arduino" width="40" height="40"/>
-
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>
   <img src="https://cdn.simpleicons.org/postman/FF6C37" title="Postman" alt="Postman" width="40" height="40"/>
@@ -60,11 +56,11 @@
   <img src="https://cdn.simpleicons.org/vercel/000000" title="Vercel" alt="Vercel" width="40" height="40"/>
   <img src="https://cdn.simpleicons.org/netlify/00C7B7" title="Netlify" alt="Netlify" width="40" height="40"/>
 
-
   <!-- Cloud -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-plain-wordmark.svg" title="Azure" alt="Azure" width="40" height="40"/>
 </div>
+
 
 
 ## My stats
