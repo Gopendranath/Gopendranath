@@ -19,15 +19,7 @@
 > A passionate software developer driven by a love for *open-source* and *continuous learning*. I'm currently deepening my expertise in the *MERN stack* while actively contributing to the community. I'm always eager to collaborate on innovative projects and expand my skills in *cloud computing* and *containerization*. When I'm not coding, you can find me trekking and exploring the beauty of nature.
 
 ### My Core Tech Stack
-
-| Category | Primary Focus | Proficient With |
-| :--- | :--- | :--- |
-| **Languages** | `JavaScript` `TypeScript` `Python` | `HTML` `CSS` `YAML` `Markdown` |
-| **Frontend** | `React.js` `Next.js` `Tailwind CSS` | `Redux` `Zustand` `Shadcn/UI` `MUI` |
-| **Backend** | `Node.js` `Express.js` `MongoDB` | `FastAPI` `REST APIs` `JWT` `OAuth 2.0` |
-| **AI/ML** | `LangChain` `LangGraph` `GenAI` | `RAG` `Mistral AI` `Automation` |
-| **Cloud & DevOps**| `AWS` `Docker` `Git` `Vercel` | `EC2` `S3` `Lambda` `Netlify` |
-| **Tools** | `VSCode` `Postman` `Github` | `WSL` `Wireshark` `n8n` |
+<table align="center" width="100%"> <tr> <th>Category</th> <th>Primary Focus</th> <th>Proficient With</th> </tr> <tr> <td><b>Languages</b></td> <td><code>JavaScript</code> <code>TypeScript</code> <code>Python</code></td> <td><code>HTML</code> <code>CSS</code> <code>YAML</code> <code>Markdown</code></td> </tr> <tr> <td><b>Frontend</b></td> <td><code>React.js</code> <code>Next.js</code> <code>Tailwind CSS</code></td> <td><code>Redux</code> <code>Zustand</code> <code>Shadcn/UI</code> <code>MUI</code></td> </tr> <tr> <td><b>Backend</b></td> <td><code>Node.js</code> <code>Express.js</code> <code>MongoDB</code></td> <td><code>FastAPI</code> <code>REST APIs</code> <code>JWT</code> <code>OAuth 2.0</code></td> </tr> <tr> <td><b>AI / ML</b></td> <td><code>LangChain</code> <code>LangGraph</code> <code>GenAI</code></td> <td><code>RAG</code> <code>Mistral AI</code> <code>Automation</code></td> </tr> <tr> <td><b>Cloud & DevOps</b></td> <td><code>AWS</code> <code>Docker</code> <code>Git</code> <code>Vercel</code></td> <td><code>EC2</code> <code>S3</code> <code>Lambda</code> <code>Netlify</code></td> </tr> <tr> <td><b>Tools</b></td> <td><code>VSCode</code> <code>Postman</code> <code>Github</code></td> <td><code>WSL</code> <code>Wireshark</code> <code>n8n</code></td> </tr> </table>
 
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
