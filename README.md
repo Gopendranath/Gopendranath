@@ -1,6 +1,9 @@
-<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" align="left" />
+<div display="flex">
+<div align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" align="left" />
+</div>
 
-<p align="right">
+<div align="center">
   <a href="https://www.linkedin.com/in/gopendranath-sasmal-58a321205">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
   </a>
@@ -9,7 +12,8 @@
   </a>
   <br />
   <img src="https://komarev.com/ghpvc/?username=Gopendranath&style=flat-square&color=blue" alt="Views">
-</p>
+</div>
+</div>
 
 <br clear="both" />
 
