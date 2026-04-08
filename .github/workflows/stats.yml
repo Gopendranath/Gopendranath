@@ -12,8 +12,11 @@ jobs:
   update-stats:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      - uses: stefvuck/github-profile-language-analytics@v1.1.0
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Generate Language Stats
+        uses: stefvuck/github-profile-language-analytics@v1
         with:
           github_token: ${{ secrets.STATS_TOKEN }}
           visualization_types: "pie donut"
