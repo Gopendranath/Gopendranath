@@ -66,7 +66,9 @@
 ## My stats
 
 <div style="display: flex; gap: 1rem; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gopendranath&layout=compact&theme=dark&hide_border=true" alt="Top Languages" style="height: 200px; width: 300px;" />
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Gopendranath&theme=dark&hide_border=true&mode=weekly" alt="GitHub Streak" height="200" />
+  </a>
   <a href="https://git.io/streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=Gopendranath&theme=dark&hide_border=true&mode=weekly" alt="GitHub Streak" style="height: 200px; width: 420px;" />
   </a>
