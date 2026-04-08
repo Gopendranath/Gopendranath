@@ -75,7 +75,7 @@
 
 <div style="display: flex; gap: 1rem; flex-wrap: wrap;">
   <img src="stats/donut_by_weighted.png" alt="Language Stats Donut" width="400" />
-  <a href="https://git.io/streak-stats">
+  <a href="https://git.io/streak-stats" align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=Gopendranath&theme=dark&hide_border=true&mode=weekly" alt="GitHub Streak" style="height: 200px; width: 420px;" />
   </a>
 </div>
