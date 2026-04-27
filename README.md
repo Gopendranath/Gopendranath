@@ -1,4 +1,3 @@
-<div display="flex">
 <div width="500" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200" align="center" />
 </div>
@@ -12,7 +11,6 @@
   </a>
   <br />
   <img src="https://komarev.com/ghpvc/?username=Gopendranath&style=flat-square&color=blue" alt="Views">
-</div>
 </div>
 
 <br clear="both" />
