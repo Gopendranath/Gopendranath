@@ -19,7 +19,7 @@
 
 <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
 
-
+<a href="https://u8views.com/github/Gopendranath"><img src="https://u8views.com/api/v1/github/profiles/71755844/views/day-week-month-total-count.svg"></a>
 ## About Me
 
 > A passionate software developer driven by a love for *open-source* and *continuous learning*. I'm currently deepening my expertise in the *MERN stack* while actively contributing to the community. I'm always eager to collaborate on innovative projects and expand my skills in *cloud computing* and *containerization*. When I'm not coding, you can find me trekking and exploring the beauty of nature.
