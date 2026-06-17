@@ -11,6 +11,7 @@
   </a>
   <br />
   <img src="https://komarev.com/ghpvc/?username=Gopendranath&style=flat-square&color=blue" alt="Views">
+  <a href="https://u8views.com/github/Gopendranath"><img src="https://u8views.com/api/v1/github/profiles/71755844/views/day-week-month-total-count.svg"></a>
 </div>
 
 <br clear="both" />
