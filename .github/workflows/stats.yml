@@ -21,6 +21,6 @@ jobs:
           github_token: ${{ secrets.STATS_TOKEN }}
           visualization_types: "leaderboard pie donut bar"
           exclude_languages: "HTML,CSS,Markdown"
-          include_forks: "true"
+          include_forks: "false"
           output_path: "stats"
           dark_mode: "true"
